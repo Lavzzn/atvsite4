@@ -1,0 +1,50 @@
+body{
+    background-color: #150E0F;
+}
+header{
+    height: 100px;
+    background-color:  #150E0F ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+
+}
+.menu-bar
+{
+    display: flex;
+    list-style: none;
+    font-family: Roboto;
+    font-size: 18px;
+    column-gap: 20px;
+    color: aliceblue;
+}
+.container
+{
+    display: flex;
+    margin: 0 auto;
+    padding: 120px 0 0 550px ;
+    align-items: center;
+}
+.titulo
+{
+    font-weight: bold;
+    font-family: Roboto;
+    font-size: 70px;
+    color: #fff;
+    align-items: center;
+
+}
+.btn-sing
+{
+    background-color: rgb(226, 0, 0);
+    width: 100px;
+    height: 30px;
+    color: #fff;
+}
+.barra
+{
+    width: 1060px;
+    height: 66px;
+    margin-left: 400px;
+}
